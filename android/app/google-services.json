@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336054896754",
+    "project_id": "logpass2-a3003",
+    "storage_bucket": "logpass2-a3003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336054896754:android:ffffe8b700b2058d0cdaeb",
+        "android_client_info": {
+          "package_name": "com.example.login_password_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336054896754-m8sr63qhpprs3963o6cou7hamehj1lsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbc67qCd0uW7fqPbMbPeVb2Jp9ggd4bGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336054896754-m8sr63qhpprs3963o6cou7hamehj1lsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
